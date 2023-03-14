@@ -50,6 +50,7 @@ const ViewTable = () => {
 		<>
 			<Head>
 				<title>View Table</title>
+				<link rel="icon" href="/table.png" />
 			</Head>
 			<main className={styles.container}>
 				<div className={styles.wrapper}>
